@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6d5ff372-9559-4033-b928-f879137d9608" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/photos/photo/photo.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/photos/photo/photo.service.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,12 +24,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../../Program Files/nodejs/node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="ts.external.directory.path" value="C:\Desenvolvimento\workpace\AluraPic\alurapic\node_modules\typescript\lib" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="ts.external.directory.path" value="C:\Desenvolvimento\workpace\AluraPicGIT\Photos\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -73,16 +79,55 @@
       <updated>1631626720791</updated>
       <workItem from="1631626721919" duration="15321000" />
       <workItem from="1631734797879" duration="2093000" />
-      <workItem from="1631738017941" duration="151000" />
+      <workItem from="1631738017941" duration="1847000" />
+      <workItem from="1631795342366" duration="113000" />
+      <workItem from="1631795899221" duration="3008000" />
+      <workItem from="1631801601418" duration="6503000" />
+      <workItem from="1631819643331" duration="189000" />
+      <workItem from="1631819898154" duration="6948000" />
     </task>
+    <task id="LOCAL-00001" summary="Segundo Commit">
+      <created>1631738429500</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631738429500</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Routes Commit">
+      <created>1631823024036</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1631823024036</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/alurapic" />
     </ignored-roots>
+    <MESSAGE value="Segundo Commit" />
+    <MESSAGE value="Routes Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Routes Commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
