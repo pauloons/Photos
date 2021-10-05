@@ -22,16 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d5ff372-9559-4033-b928-f879137d9608" name="Default Changelist" comment="Trabalhando com ngOnChanges e  slice">
-      <change afterPath="$PROJECT_DIR$/src/app/photos/photo-list/filter-by-description.pipe.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/photos/photo-list/photo-list.resolver.ts" afterDir="false" />
+    <list default="true" id="6d5ff372-9559-4033-b928-f879137d9608" name="Default Changelist" comment="Trabalhando com Resolvers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/photos/photo-list/photo-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/photos/photo-list/photo-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/photos/photo-list/photo-list.component.spec.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/photos/photo-list/photo-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/photos/photo-list/photo-list.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/photos/photo-list/photos/photos.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/photos/photo-list/photos/photos.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/photos/photos.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/photos/photos.module.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +116,7 @@
       <workItem from="1632777505096" duration="5279000" />
       <workItem from="1632883510786" duration="6103000" />
       <workItem from="1633366192260" duration="7032000" />
-      <workItem from="1633392918296" duration="3868000" />
+      <workItem from="1633392918296" duration="5554000" />
     </task>
     <task id="LOCAL-00001" summary="Segundo Commit">
       <created>1631738429500</created>
@@ -153,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632888398432</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Trabalhando com Resolvers">
+      <created>1633397351395</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1633397351396</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +179,8 @@
     <MESSAGE value="Routes Commit" />
     <MESSAGE value="Melhorando apresentação da lista" />
     <MESSAGE value="Trabalhando com ngOnChanges e  slice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trabalhando com ngOnChanges e  slice" />
+    <MESSAGE value="Trabalhando com Resolvers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trabalhando com Resolvers" />
   </component>
   <component name="WindowStateProjectService">
     <state x="569" y="361" key="#Stylelint" timestamp="1633369109269">
@@ -248,10 +249,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/1920.62.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1633397059842" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1632800345488">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="387" y="139" key="Vcs.Push.Dialog.v2" timestamp="1633397353708">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1632800345488" />
+    <state x="387" y="139" key="Vcs.Push.Dialog.v2/1920.62.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1633397353708" />
     <state x="703" y="397" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1632884428156">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
